@@ -23,7 +23,7 @@ SERVER_LOGOUT =         "106 LOGOUT".encode() + MESSAGE_SUFFIX
 CLIENT_RECHARGING =     "RECHARGING".encode() + MESSAGE_SUFFIX
 CLIENT_FULL_POWER =     "FULL POWER".encode() + MESSAGE_SUFFIX
 COMPASS =               ["up", "right", "down", "left"]
-STEPS_LIMIT =           50
+STEPS_LIMIT =           50su
 
 class ThreadServer(object):
     def __init__(self, conn, addr):
