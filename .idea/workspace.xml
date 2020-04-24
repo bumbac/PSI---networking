@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97d4ec68-c342-4cce-a8b8-f946962d98a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1at0o6gjiBsUVyy5YlNundNCqJt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97d4ec68-c342-4cce-a8b8-f946962d98a3" name="Default Changelist" comment="" />
+      <created>1587539754769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587539754769</updated>
+      <workItem from="1587539759759" duration="5154000" />
+      <workItem from="1587563177745" duration="1529000" />
+      <workItem from="1587622710707" duration="27832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="952" y="215" width="800" height="684" key="#Inspections" timestamp="1587715943909">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="952" y="215" width="800" height="684" key="#Inspections/1920.0.1680.1050/0.27.1920.1053@0.27.1920.1053" timestamp="1587715943909" />
+    <state x="846" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1587721518797">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="846" y="188" width="1022" height="737" key="SettingsEditor/1920.0.1680.1050/0.27.1920.1053@0.27.1920.1053" timestamp="1587721518797" />
+    <state x="1102" y="195" width="501" height="723" key="refactoring.ChangeSignatureDialog" timestamp="1587715322995">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1102" y="195" width="501" height="723" key="refactoring.ChangeSignatureDialog/1920.0.1680.1050/0.27.1920.1053@0.27.1920.1053" timestamp="1587715322995" />
+    <state x="947" y="240" width="800" height="684" key="scopes" timestamp="1587716158204">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="947" y="240" width="800" height="684" key="scopes/1920.0.1680.1050/0.27.1920.1053@0.27.1920.1053" timestamp="1587716158204" />
+    <state x="1084" y="259" key="search.everywhere.popup" timestamp="1587626064561">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1084" y="259" key="search.everywhere.popup/1920.0.1680.1050/0.27.1920.1053@0.27.1920.1053" timestamp="1587626064561" />
+  </component>
+</project>
